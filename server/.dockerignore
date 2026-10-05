@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+indian_liver_patient.csv
+metrics.txt
+untrained_model.pl
+.idea/
+Dockerfile
+.dockerignore
