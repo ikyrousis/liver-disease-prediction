@@ -1,4 +1,4 @@
-# AI Liver Disease Prediction
+# ATIAI Liver Disease Prediction
 
 A client-server application in which a React web interface submits patient lab results
 to a Flask backend that predicts liver disease with a probabilistic logic (**Problog**)
